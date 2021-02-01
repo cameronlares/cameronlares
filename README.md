@@ -6,7 +6,7 @@ Find me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/cameronlares/)
 
 Skills: Javascript, Node, Express, React, StyledComponents, CSS, HTML, Git, SQL, PostgreSQL, Redux
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
